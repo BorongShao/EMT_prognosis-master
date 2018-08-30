@@ -1,0 +1,165 @@
+GEO_ID;egfr;egfr_type;kras;braf;p53;histology;Chemo;pStage;packyears;sex;age_surgery;time.pfs.months;event.pfs
+Sample1;3;0;0;3;3;Adenocarcinoma              ;yes;Ia  ;26;female;50;99;0
+Sample10;0;0;3;3;0;Adenocarcinoma              ;yes;IIa ;0;female;47;76;0
+Sample100;0;0;3;0;3;Bronchioloalveolar carcinoma;no;Ib  ;0;male  ;78;94;0
+Sample101;0;0;3;3;3;Adenocarcinoma              ;yes;Ib  ;82;female;58;88;0
+Sample103;0;0;0;0;3;Adenocarcinoma              ;no ;IIIa;28;female;57;7;1
+Sample105;0;0;0;0;0;Adenocarcinoma              ;no;Ib  ;51;male  ;55;88;0
+Sample107;0;0;1;0;1;Adenocarcinoma              ;yes;IIIa;47;male  ;61;89;0
+Sample109;0;0;0;0;0;Adenocarcinoma              ;yes;IIa ;14;female;58;5;0
+Sample11;1;2;0;0;0;Adenocarcinoma              ;yes;IIIa;10;female;56;76;0
+Sample111;0;0;0;0;0;Adenocarcinoma              ;no;IIIa;25;female;70;89;0
+Sample113;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;21;male  ;79;11;0
+Sample115;0;0;1;0;0;Adenocarcinoma              ;no;Ia  ;31;female;61;89;0
+Sample116;0;0;0;3;0;Adenocarcinoma              ;yes;IIa ;37;male  ;54;88;0
+Sample118;0;0;1;0;0;Adenocarcinoma              ;yes;IIb ;7;female;59;55;1
+Sample12;0;0;0;3;1;Adenocarcinoma              ;no;Ib  ;20;female;71;71;0
+Sample120;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;18;female;62;84;0
+Sample121;0;0;3;3;1;Adenocarcinoma              ;yes;IIIa;51;male  ;67;10;1
+Sample123;1;1;0;3;1;Adenocarcinoma              ;no;Ib  ;0;female;77;82;0
+Sample124;0;0;1;0;1;Adenocarcinoma              ;no;Ia  ;30;female;63;14;1
+Sample126;1;2;0;0;1;Adenocarcinoma              ;yes;IIIa;0;female;67;81;0
+Sample127;0;0;0;3;0;Adenocarcinoma              ;yes;IIIa;18;male  ;58;12;1
+Sample128;1;3;0;0;1;Bronchioloalveolar carcinoma;no;Ia  ;0;female;70;26;1
+Sample129;0;0;1;0;0;Adenocarcinoma              ;yes;IIIa;20;female;61;34;1
+Sample13;0;0;1;3;0;Adenocarcinoma              ;yes;IIIa;45;male  ;57;75;0
+Sample130;0;0;0;0;0;Adenocarcinoma              ;yes;Ib  ;28;male  ;57;66;0
+Sample132;0;0;0;0;1;Adenocarcinoma              ;yes;IIIa;0;male  ;72;66;0
+Sample133;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;30;female;76;66;0
+Sample134;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;12;male  ;66;65;0
+Sample135;0;0;1;0;1;Adenocarcinoma              ;no;Ib  ;25;male  ;68;11;1
+Sample137;1;1;0;0;0;Adenocarcinoma              ;no;IIa ;0;male  ;71;50;0
+Sample138;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;12;female;75;64;0
+Sample139;0;0;1;0;0;Bronchioloalveolar carcinoma;no;IIb ;40;male  ;81;64;0
+Sample14;0;0;0;0;0;Adenocarcinoma              ;no;IIa ;12;male  ;75;43;1
+Sample140;0;0;0;0;0;Adenocarcinoma              ;no;Ib  ;27;male  ;74;17;0
+Sample141;0;0;0;0;1;Adenocarcinoma              ;no;Ib  ;50;female;78;17;0
+Sample142;0;0;0;0;3;Adenocarcinoma              ;yes;IIa ;10;female;68;27;1
+Sample143;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;18;female;71;62;0
+Sample144;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;30;female;76;22;0
+Sample145;1;2;0;0;0;Adenocarcinoma              ;yes;IIIa;1;male  ;65;59;0
+Sample146;0;0;1;0;0;Adenocarcinoma              ;no ;IIIa;29;female;66;10;1
+Sample147;0;0;1;0;0;Adenocarcinoma              ;no;Ia  ;45;male  ;50;56;0
+Sample148;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;8;male  ;78;56;0
+Sample149;1;2;0;0;0;Bronchioloalveolar carcinoma;no;Ib  ;0;female;65;56;0
+Sample15;0;0;0;3;1;Adenocarcinoma              ;no;IIa ;38;male  ;81;74;0
+Sample150;0;0;0;0;1;Adenocarcinoma              ;yes;Ib  ;34;female;59;41;1
+Sample151;0;0;0;0;1;Adenocarcinoma              ;no;Ib  ;5;male  ;78;56;0
+Sample152;0;0;1;0;1;Adenocarcinoma              ;yes;IIb ;32;male  ;55;54;0
+Sample153;0;0;0;0;1;Adenocarcinoma              ;yes;Ib  ;50;female;56;16;1
+Sample154;0;0;1;0;0;Adenocarcinoma              ;no ;IIb ;68;female;70;31;1
+Sample155;0;0;1;0;0;Adenocarcinoma              ;yes;Ia  ;35;male  ;73;54;0
+Sample156;0;0;0;0;0;Adenocarcinoma              ;yes;IIIa;27;female;54;54;0
+Sample157;0;0;0;0;1;Adenocarcinoma              ;yes;Ib  ;67;male  ;59;9;1
+Sample158;1;2;0;0;0;Adenocarcinoma              ;no;Ia  ;0;female;73;54;0
+Sample159;0;0;1;0;0;Adenocarcinoma              ;no;IIa ;45;male  ;64;53;0
+Sample16;0;0;3;3;0;Adenocarcinoma              ;no;Ib  ;27;female;52;13;1
+Sample160;0;0;1;0;0;Adenocarcinoma              ;yes;IIa ;47;male  ;62;34;1
+Sample161;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;39;female;62;20;1
+Sample162;0;0;1;0;0;Adenocarcinoma              ;yes;IIa ;16;female;52;7;1
+Sample163;0;0;0;1;0;Adenocarcinoma              ;no;Ia  ;19;male  ;76;51;0
+Sample164;1;5;0;0;1;Adenocarcinoma              ;no ;IIa ;28;female;62;51;0
+Sample165;0;0;1;0;0;Adenocarcinoma              ;no;Ia  ;39;female;83;50;0
+Sample166;0;0;0;0;0;Adenocarcinoma              ;yes;IIa ;17;female;70;17;1
+Sample167;0;0;0;0;1;Adenocarcinoma              ;no;Ib  ;34;male  ;61;49;0
+Sample168;0;0;0;0;1;Adenocarcinoma              ;no;Ia  ;49;female;64;48;0
+Sample169;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;39;female;67;9;1
+Sample17;0;0;3;3;0;Adenocarcinoma              ;yes;Ib  ;76;male  ;64;72;0
+Sample170;3;0;1;0;0;Adenocarcinoma              ;yes;IIIa;10;female;64;12;1
+Sample171;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;21;female;69;46;0
+Sample172;0;0;0;0;0;Adenocarcinoma              ;yes;Ib  ;17;male  ;55;45;0
+Sample173;0;0;0;0;1;Adenocarcinoma              ;no;Ia  ;20;female;59;22;0
+Sample174;0;0;3;3;1;Adenocarcinoma              ;no;Ia  ;50;male  ;67;44;0
+Sample175;0;0;0;0;1;Adenocarcinoma              ;no;IIIa;55;male  ;70;30;1
+Sample176;0;0;0;0;1;Adenocarcinoma              ;no ;IIa ;17;female;61;7;1
+Sample177;0;0;0;0;0;Adenocarcinoma              ;no;Ib  ;0;male  ;43;43;0
+Sample179;0;0;1;0;0;Adenocarcinoma              ;no;Ia  ;35;female;67;42;0
+Sample18;0;0;0;0;3;Adenocarcinoma              ;no;Ia  ;38;male  ;59;58;1
+Sample180;1;1;0;0;1;Adenocarcinoma              ;no;Ib  ;19;female;57;42;0
+Sample181;0;0;0;0;0;Adenocarcinoma              ;no ;IIa ;6;female;68;42;0
+Sample182;0;0;0;0;1;Adenocarcinoma              ;yes;IIa ;26;female;56;9;1
+Sample183;0;0;1;0;1;Adenocarcinoma              ;yes;IIIa;30;female;63;40;0
+Sample19;0;0;3;3;0;Adenocarcinoma              ;no;Ib  ;32;male  ;73;72;0
+Sample20;0;0;3;3;0;Adenocarcinoma              ;yes;IIa ;47;female;55;27;1
+Sample21;0;0;0;0;0;Adenocarcinoma              ;no;IIb ;26;male  ;57;4;1
+Sample22;0;0;0;0;0;Adenocarcinoma              ;no;Ib  ;63;male  ;68;71;0
+Sample23;1;3;0;0;0;Adenocarcinoma              ;no;IIa ;4;female;76;46;1
+Sample24;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;37;female;47;69;0
+Sample25;0;0;1;0;1;Adenocarcinoma              ;no;Ia  ;50;male  ;67;29;1
+Sample26;0;0;0;0;1;Adenocarcinoma              ;no;Ib  ;25;male  ;66;68;0
+Sample27;0;0;0;0;0;Adenocarcinoma              ;no;Ib  ;24;female;58;67;0
+Sample28;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;14;male  ;76;10;1
+Sample29;0;0;1;0;0;Adenocarcinoma              ;no;IIb ;10;female;76;66;0
+Sample3;0;0;0;0;3;Adenocarcinoma              ;yes;IIb ;34;male  ;68;16;1
+Sample30;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;44;male  ;74;12;1
+Sample31;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;11;female;64;20;0
+Sample32;0;0;1;0;0;Adenocarcinoma              ;no;Ia  ;29;male  ;69;65;0
+Sample33;0;0;1;0;3;Adenocarcinoma              ;yes;IIa ;46;female;62;37;1
+Sample34;0;0;1;0;0;Adenocarcinoma              ;no ;IIa ;25;male  ;64;29;1
+Sample35;0;0;0;0;0;Adenocarcinoma              ;yes;IIIa;40;female;60;43;0
+Sample36;0;0;1;0;0;Adenocarcinoma              ;yes;IIa ;46;male  ;64;44;0
+Sample37;0;0;1;0;3;Adenocarcinoma              ;no;IIIa;15;female;74;11;1
+Sample38;0;0;1;0;3;Adenocarcinoma              ;yes;IIb ;15;female;48;62;0
+Sample39;1;1;0;0;0;Adenocarcinoma              ;no;Ia  ;24;male  ;81;61;0
+Sample4;0;0;0;3;1;Adenocarcinoma              ;no;Ia  ;36;male  ;68;86;0
+Sample40;0;0;0;0;0;Adenocarcinoma              ;no;IIIa;20;male  ;71;18;1
+Sample41;0;0;0;0;0;Adenocarcinoma              ;no;IIa ;45;male  ;77;14;0
+Sample42;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;27;male  ;68;59;0
+Sample43;0;0;0;0;0;Adenocarcinoma              ;yes;IV  ;26;female;52;;
+Sample44;0;0;0;0;1;Adenocarcinoma              ;no;Ib  ;10;female;77;40;1
+Sample45;0;0;0;0;0;Adenocarcinoma              ;yes;IIIa;12;female;60;59;0
+Sample46;0;0;0;0;0;Adenocarcinoma              ;yes;IIb ;26;male  ;57;17;1
+Sample47;1;2;0;0;1;Adenocarcinoma              ;no;IIa ;0;female;70;18;1
+Sample48;1;2;0;0;0;Adenocarcinoma              ;yes;IIa ;24;male  ;66;12;1
+Sample49;0;0;0;0;0;Adenocarcinoma              ;no;Ib  ;36;female;69;56;0
+Sample50;0;0;0;0;0;Adenocarcinoma              ;no ;IIb ;19;male  ;39;2;1
+Sample51;0;0;1;0;0;Adenocarcinoma              ;yes;Ib  ;39;male  ;55;56;0
+Sample52;0;0;1;0;1;Adenocarcinoma              ;no;Ib  ;12;female;78;8;1
+Sample53;0;0;0;0;0;Adenocarcinoma              ;no;Ib  ;0;female;79;37;1
+Sample54;0;0;0;0;1;Adenocarcinoma              ;no ;IIb ;35;male  ;65;53;1
+Sample55;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;25;female;75;17;1
+Sample56;0;0;0;0;1;Adenocarcinoma              ;no;Ia  ;22;female;64;54;0
+Sample57;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;20;female;67;54;0
+Sample58;0;0;0;0;1;Adenocarcinoma              ;yes;IIIa;22;female;46;54;0
+Sample59;0;0;1;0;1;Adenocarcinoma              ;no;Ia  ;24;female;56;53;0
+Sample6;1;1;0;0;0;Adenocarcinoma              ;no;Ia  ;;female;76;35;1
+Sample60;0;0;0;0;1;Adenocarcinoma              ;yes;Ib  ;36;male  ;60;53;0
+Sample61;0;0;0;1;1;Adenocarcinoma              ;no;Ia  ;35;male  ;61;53;0
+Sample62;0;0;0;0;0;Adenocarcinoma              ;yes;IIb ;52;female;64;34;1
+Sample63;0;0;1;0;0;Adenocarcinoma              ;no ;IIIa;17;female;62;2;1
+Sample64;0;0;0;0;1;Adenocarcinoma              ;no;Ib  ;16;male  ;51;5;1
+Sample65;0;0;0;0;1;Adenocarcinoma              ;no;Ia  ;39;male  ;73;50;0
+Sample66;0;0;0;0;1;Adenocarcinoma              ;no;IIa ;36;female;66;50;0
+Sample67;0;0;0;0;1;Adenocarcinoma              ;no ;IIa ;28;male  ;66;11;1
+Sample68;1;1;0;0;0;Adenocarcinoma              ;no;Ia  ;2;female;48;49;0
+Sample69;0;0;1;0;1;Adenocarcinoma              ;no;Ib  ;55;female;72;49;0
+Sample7;0;0;1;0;0;Adenocarcinoma              ;yes;IIIa;27;female;51;81;0
+Sample70;0;0;1;0;0;Adenocarcinoma              ;no;Ia  ;46;female;63;18;0
+Sample71;0;0;1;0;1;Adenocarcinoma              ;no;Ib  ;27;male  ;75;11;1
+Sample72;0;0;0;0;1;Adenocarcinoma              ;no;Ia  ;27;female;72;47;0
+Sample73;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;0;male  ;63;47;0
+Sample74;3;0;0;0;1;Adenocarcinoma              ;no;Ia  ;25;female;67;4;1
+Sample75;0;0;0;0;1;Adenocarcinoma              ;no;Ib  ;30;female;73;46;0
+Sample76;1;2;0;0;0;Adenocarcinoma              ;no;Ib  ;0;female;64;45;0
+Sample77;0;0;0;0;1;Adenocarcinoma              ;yes;IIb ;42;male  ;64;14;1
+Sample78;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;9;female;72;11;1
+Sample79;0;0;1;0;1;Adenocarcinoma              ;no ;IV  ;41;female;57;;
+Sample8;0;0;1;3;1;Adenocarcinoma              ;no;Ia  ;32;female;57;60;1
+Sample80;0;0;0;0;1;Adenocarcinoma              ;no;Ia  ;30;male  ;61;45;0
+Sample81;0;0;1;0;0;Adenocarcinoma              ;yes;Ib  ;10;female;60;45;0
+Sample82;0;0;0;0;0;Bronchioloalveolar carcinoma;no;Ib  ;0;male  ;71;45;0
+Sample83;0;0;0;0;1;Adenocarcinoma              ;yes;IIIa;45;male  ;60;44;0
+Sample84;0;0;0;0;1;Adenocarcinoma              ;no ;IIIa;12;female;56;20;1
+Sample85;1;1;0;0;1;Adenocarcinoma              ;no;IIa ;0;female;75;44;0
+Sample86;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;47;male  ;62;44;0
+Sample87;1;1;0;0;1;Adenocarcinoma              ;no ;IIIa;0;female;48;4;1
+Sample88;0;0;1;0;0;Adenocarcinoma              ;no;Ib  ;0;female;84;38;1
+Sample89;0;0;0;0;0;Adenocarcinoma              ;no;Ia  ;46;male  ;66;41;0
+Sample9;0;0;1;3;0;Adenocarcinoma              ;no;Ia  ;22;female;65;18;1
+Sample90;0;0;0;0;1;Adenocarcinoma              ;yes;Ib  ;30;male  ;46;41;0
+Sample91;0;0;1;0;0;Adenocarcinoma              ;no;Ia  ;0;female;81;12;1
+Sample92;1;0;0;0;1;Adenocarcinoma              ;yes;IIIa;0;female;72;7;1
+Sample93;0;0;0;0;1;Adenocarcinoma              ;no;IIIa;30;male  ;71;40;0
+Sample95;0;0;0;3;3;Adenocarcinoma              ;no;IIa ;46;male  ;71;78;0
+Sample97;0;0;1;3;3;Adenocarcinoma              ;no;Ia  ;24;male  ;47;99;0
+Sample99;0;0;3;0;3;Adenocarcinoma              ;no;IIIa;23;male  ;74;5;1
